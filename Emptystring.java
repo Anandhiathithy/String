@@ -2,7 +2,7 @@ public class Emptystring
 {
 public static void main (String arg[])
 {
-String s1="ghfdgfhd";
+String s1="Good morning";
 
  
 if(s1.isEmpty())
