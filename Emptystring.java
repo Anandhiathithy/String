@@ -2,22 +2,20 @@ public class Emptystring
 {
 public static void main (String arg[])
 {
-boolean flag =false;
-//String s=null;
-String s1=null;
+String s1="ghfdgfhd";
 
-if(s1.isEmpty())  
-{
-flag=true;
-}
-System.out.println(flag);
-if(flag)
+ 
+if(s1.isEmpty())
 {
 System.out.println("It is empty string");
 }
 else
 {
 System.out.println("it is no empty string");
+}
+
+
+}
 }
 
 
